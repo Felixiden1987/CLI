@@ -164,6 +164,11 @@ main {
     /* override the heading colour set in general styles */
     color: #fafafa;
 }
+/* Gallery page */
+#photos img {
+    width: 100%; 
+}
+
 /* Footer */
 #social-networks {
     text-align: center; 
